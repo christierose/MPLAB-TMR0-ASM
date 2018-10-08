@@ -1,6 +1,5 @@
-;Lab 1 Blink LED with Loop Timer Delay 
 ;Christie Carranza 
-;Dr. Morton  
+
 ; PIC16F1829 Configuration Bit Settings 
 ; Assembly source line config statements 
 #include "p16f1829.inc" 
